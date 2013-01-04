@@ -3,11 +3,11 @@ Build
 
 Build steps:
 
-        mkdir Build
-        cd Build
-        qmake ..
-        make
+    mkdir Build
+    cd Build
+    qmake ..
+    make
 
 Execute demo:
 
-        ./hello
+    ./hello
